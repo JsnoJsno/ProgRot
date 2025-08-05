@@ -1,5 +1,6 @@
-#ifndef includes.h
+#ifndef includes
 
+#define includes
 #include <iostream>
 #include <fstream>
 #include <vector>
